@@ -1,0 +1,41 @@
+$heading: "Montserrat", sans-serif;
+$subheading: "Montserrat", sans-serif;
+$bodytext: "Roboto", sans-serif;
+$button: "Montserrat", sans-serif;
+$quote: "Montserrat", serif, italic;
+
+
+
+
+
+
+
+
+h1, h2 {
+   
+   font-family: $heading;
+   margin: 4vh!important; 
+    
+    
+}
+
+h3, h4, h5 {
+   font-family: $heading; 
+   margin: 2vh!important;  
+    
+}
+
+h4{
+    
+padding-top: 10vh;
+    
+}
+
+p {
+   font-size: 16px;
+    font-weight: 100;
+    letter-spacing: 1px;
+   font-family: $bodytext; 
+   margin: 2vh!important; 
+    
+}

@@ -1,0 +1,236 @@
+.App, html {
+  text-align: center;
+  background: $background-design;
+  color: $font-light;
+  height: 100vh;
+}
+
+
+.container{
+padding: 2vh;   
+     
+}
+
+
+.jumbotron{
+    
+  padding:  2vh;
+  color: $font-dark !important;
+  text-align: left !important; 
+}
+
+
+.row {
+    
+margin: 5vh!important;
+    
+    
+}
+
+
+
+ li .navitem a .navlink{
+    
+    color:$design !important;
+    
+}
+
+.card{
+    
+ color:$font-dark;
+ padding: 10vh;
+    
+}
+
+.navi{
+    
+ padding-top: 3vh;   
+    
+    
+}
+
+.logo{
+  font-family: $heading;
+  padding: 5vh;
+   
+    
+}
+
+
+
+.footer{
+ text-align: right; 
+ margin-right: 5vh;
+ padding-top:10vh;   
+ margin-bottom: 1vh;  
+}
+
+.design{
+    
+ background: $background-design;   
+ color: $font-light;
+ text-align: left; 
+    
+}
+
+.designheading{
+
+   color:$design !important;  
+   text-align: center!important; 
+}
+
+.designcolor{
+   padding: 10vh !important;
+   color:$design !important;  
+   text-decoration: underline 0.5px $design; 
+   text-align: center !important;
+}
+
+img{
+ 
+ float: center !important;
+ height: auto !important; 
+ border: 1px solid $design;   
+ 
+}
+
+
+.fonts{
+    
+    text-align: center !important;
+}
+
+.designp{
+  font-size: 18px; 
+  color:$design !important;   
+  border: 1px solid $font-light;
+  text-align: center; 
+  padding: 10px;
+}
+
+.btn{
+  width: 200px;
+  font-size: 18px;
+  background: $design;
+  color: $font-dark;
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px 1px #d0a86b;
+}
+
+.hover{
+  width: 200px;
+  font-size: 18px;
+  background: $hover;
+  color: $font-light;
+  border: 1px solid $design;
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px 1px #d0a86b;
+}
+
+.hov {
+  width: 200px;
+  font-size: 18px;
+  background: $design;
+  color: $font-dark;
+  border-radius: 5px;
+  border: 1px solid $design;
+  box-shadow: 1px 1px 1px 1px #d0a86b;
+}
+
+
+.hov:hover{
+    background: $hover;
+    color: $font-light;
+    border: 1px solid $design;    
+    }
+
+.link{
+   font-size: 18px;
+   padding: 10px;
+   background: $background-design;
+   color: $design;
+   border: none; 
+    
+}
+
+.link:hover{
+   color: $font-light;
+   border: none; 
+    
+}
+
+
+.quotes{
+  font-family: $quote;
+  font-style: italic;
+  font-size: 16px;   
+  background: $font-light;
+  color:$hover;
+  text-align: center; 
+  padding: 10px; 
+    
+    
+}
+
+.imagelink{
+  color: $design;
+  text-decoration: none;   
+    
+    
+}
+
+.imagelink:hover{
+    
+   color: $font-light;
+   text-decoration: none; 
+   
+}
+
+.designlink{
+    font-family: $heading; 
+    font-size: 16px;
+    color:  $font-light;
+    margin: 2vh;
+    
+}
+
+.designlink:hover{
+    
+   color: $design;
+   text-decoration: none; 
+   
+}
+
+.designnav{
+    border-bottom: 1px solid $design;
+    padding: 1vh;   
+}
+
+
+a.menu {
+  padding-top: 1vh;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  font-family: $heading; 
+  font-size: 16px;
+  background: $background-design;   
+  color: $design;   
+}
+
+a.menu:hover{
+    
+   color: $font-light; 
+   text-decoration: none; 
+    
+}
+
+
+.nav{
+    
+  padding-top: 1vh;
+  top: 0;
+  font-family: $heading; 
+  font-size: 16px;   
+    
+}
