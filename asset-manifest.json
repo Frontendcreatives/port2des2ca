@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/port2des2ca/static/css/main.15537d53.chunk.css",
+    "main.js": "/port2des2ca/static/js/main.b4e700ba.chunk.js",
+    "main.js.map": "/port2des2ca/static/js/main.b4e700ba.chunk.js.map",
+    "runtime-main.js": "/port2des2ca/static/js/runtime-main.001e2d9e.js",
+    "runtime-main.js.map": "/port2des2ca/static/js/runtime-main.001e2d9e.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/port2des2ca/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.58055428.chunk.js": "/port2des2ca/static/js/2.58055428.chunk.js",
+    "static/js/2.58055428.chunk.js.map": "/port2des2ca/static/js/2.58055428.chunk.js.map",
+    "static/js/3.2265728a.chunk.js": "/port2des2ca/static/js/3.2265728a.chunk.js",
+    "static/js/3.2265728a.chunk.js.map": "/port2des2ca/static/js/3.2265728a.chunk.js.map",
+    "index.html": "/port2des2ca/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/port2des2ca/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.15537d53.chunk.css.map": "/port2des2ca/static/css/main.15537d53.chunk.css.map",
+    "static/js/2.58055428.chunk.js.LICENSE.txt": "/port2des2ca/static/js/2.58055428.chunk.js.LICENSE.txt",
+    "static/media/Clearspace.69bf503e.png": "/port2des2ca/static/media/Clearspace.69bf503e.png",
+    "static/media/Colorpalette.ea74fb2e.png": "/port2des2ca/static/media/Colorpalette.ea74fb2e.png",
+    "static/media/Design1.d4e48003.png": "/port2des2ca/static/media/Design1.d4e48003.png",
+    "static/media/Design2.5299a930.png": "/port2des2ca/static/media/Design2.5299a930.png",
+    "static/media/Design3.40c11761.png": "/port2des2ca/static/media/Design3.40c11761.png",
+    "static/media/Desktoplayout.04eba442.png": "/port2des2ca/static/media/Desktoplayout.04eba442.png",
+    "static/media/Icon.91b20c15.png": "/port2des2ca/static/media/Icon.91b20c15.png",
+    "static/media/Iconrules.5139eab4.png": "/port2des2ca/static/media/Iconrules.5139eab4.png",
+    "static/media/Imagesize.87324b85.png": "/port2des2ca/static/media/Imagesize.87324b85.png",
+    "static/media/Logodark.5c25bfe9.png": "/port2des2ca/static/media/Logodark.5c25bfe9.png",
+    "static/media/Logodesktop.4f9ed799.png": "/port2des2ca/static/media/Logodesktop.4f9ed799.png",
+    "static/media/Logolight.3c4aa314.png": "/port2des2ca/static/media/Logolight.3c4aa314.png",
+    "static/media/Logomobile.cdfa04b6.png": "/port2des2ca/static/media/Logomobile.cdfa04b6.png",
+    "static/media/Mobilelayout.11f2ef69.png": "/port2des2ca/static/media/Mobilelayout.11f2ef69.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.001e2d9e.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.58055428.chunk.js",
+    "static/css/main.15537d53.chunk.css",
+    "static/js/main.b4e700ba.chunk.js"
+  ]
+}
