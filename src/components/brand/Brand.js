@@ -17,6 +17,13 @@ function Brand(){
 
         <> 
         
+        <Row>
+        <Col md={12} className="designheading"> 
+        <Heading content="WEBSITE DESIGN STYLEGUIDE"/> 
+        <Title content="Design and Branding Rules for DECOhome" /> 
+        </Col>
+       </Row>
+        
         <Row id="menu">
         <Col md={12} className="designcolor">
         <Heading content="BRAND ESSENCE" />

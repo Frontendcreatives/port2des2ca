@@ -9,7 +9,6 @@ import Icons from "../icons/Icons";
 import Interactive from "../interactive/Interactive";
 import Blayout from "../blayout/Blayout";
 import Images from "../images/Images";
-import Home from "../home/Home";
 import { BrowserRouter as Router, Switch, Route } 
 from "react-router-dom";
 import {
@@ -34,12 +33,12 @@ const Layout = (props) => {
     <>
     <Router>
       <Navbar color="light" light expand="md" className="designnav">
-        <NavbarBrand href="/" className="logo">DECOhome</NavbarBrand>
+        <NavbarBrand className="logo">DECOhome</NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
           <Nav className="mr-auto" navbar>
             <NavItem>
-              <NavLink href="/brand" className="nav">BRAND</NavLink>
+              <NavLink href="/brand" exact className="nav">BRAND</NavLink>
             </NavItem>
             <NavItem>
               <NavLink href="/logo" className="nav">LOGO</NavLink>
@@ -68,15 +67,14 @@ const Layout = (props) => {
       
        <Container>
                 <Switch>
-                    <Route path="/" exact component={Home}/>
-                    <Route path="/brand" component={Brand} />
-                    <Route path="/logo" component={Logo} />
-                    <Route path="/typography" component={Typography} />
-                    <Route path="/colors" component={Colors} />
-                    <Route path="/icons" component={Icons} />
-                    <Route path="/interactive" component={Interactive} />
-                    <Route path="/blayout" component={Blayout} />
-                    <Route path="/images" component={Images} />
+                    <Route path="/brand" exact component={Brand} />
+                    <Route path="/logo"  exact component={Logo} />
+                    <Route path="/typography" exact component={Typography} />
+                    <Route path="/colors" exact component={Colors} />
+                    <Route path="/icons"  exact component={Icons} />
+                    <Route path="/interactive" exact component={Interactive} />
+                    <Route path="/blayout" exact component={Blayout} />
+                    <Route path="/images" exact component={Images} />
                 </Switch>
         </Container>
 </Router>
